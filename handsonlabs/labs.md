@@ -1,1 +1,12 @@
+# Azure Labs allgemein
 
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/tree/master/Instructions/Labs
+
+## Policy
+
+
+
+##
+
+
+##
